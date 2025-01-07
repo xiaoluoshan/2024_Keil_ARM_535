@@ -3,3 +3,6 @@ ARM公司现在统一使用MDK-ARM的称呼，MDK的设备数据库中有很多�
 
 CMSIS Packs 下载
 https://www.keil.arm.com/packs/?q=stm32&pack-search=
+
+安装教程：
+https://blog.csdn.net/weijie_wang/article/details/120756019
